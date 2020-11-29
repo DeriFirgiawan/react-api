@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1606360242136,
+      "title": "Update Data Content dengan React JS",
+      "body": "Update Data Content dengan PUT menggunkan AXIOS dan React JS",
+      "userId": 1
+    },
+    {
+      "id": 1606384110646,
+      "title": "Hello World",
+      "body": "Belajar React JS sangat menyenangkan",
+      "userId": 1
+    },
+    {
+      "id": 1606384398400,
+      "title": "Tutorial 3",
+      "body": "Ini adalah Tuorial 3 React JS",
+      "userId": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

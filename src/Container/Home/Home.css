@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fffdff;
+}
+
+.container {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 7px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 50px;
+  padding: 50px;
+}
